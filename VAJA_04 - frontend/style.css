@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    font-size: 125%;
+}
+
+.purple {
+    color: purple;
+}
+
+.rjav {
+    height: 400px;
+    width: 900px;
+    background-color: brown;
+    font-family: Impact;
+    border: red 4px solid;
+    border-radius: 4px;
+}
+
+.svgplusvideo {
+    display: flex;
+    height: 400px;
+    align-content: center;
+    width: 100%;
+}
+
